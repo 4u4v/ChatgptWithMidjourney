@@ -1,2 +1,0 @@
-# ChatgptWithMidjourney
-Chatgpt With Midjourney.
