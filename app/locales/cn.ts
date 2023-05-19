@@ -27,7 +27,7 @@ const cn = {
       if (submitKey === String(SubmitKey.Enter)) {
         inputHints += "，Shift + Enter 换行";
       }
-      return inputHints + "，/ 触发补全";
+      return inputHints + "，/ 触发补全角色（使用/mj (空格)用英文MJ咒语描绘生成的图片）";
     },
     Send: "发送",
     Config: {
